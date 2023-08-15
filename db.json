@@ -1,0 +1,105 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Eray",
+      "lastName": "Sonmez",
+      "email": "esonmez@gmail.com",
+      "dob": "2000-09-24T21:00:00.000Z",
+      "gender": "Male",
+      "education": "Graduate",
+      "company": "Innova",
+      "experience": 4,
+      "package": 12,
+      "id": 1
+    },
+    {
+      "firstName": "hazar",
+      "lastName": "elbeyli",
+      "email": "helbeyli@gmail.com",
+      "dob": "2001-06-05T21:00:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "tesla",
+      "experience": "2",
+      "package": "12",
+      "id": 2
+    },
+    {
+      "firstName": "berkin",
+      "lastName": "koca",
+      "email": "bkoca@gmail.com",
+      "dob": "2001-01-15T22:00:00.000Z",
+      "gender": "male",
+      "education": "Intermediate",
+      "company": "innova",
+      "experience": "2",
+      "package": "10",
+      "id": 3
+    },
+    {
+      "firstName": "burhan",
+      "lastName": "keles",
+      "email": "bkeles@gmail.com",
+      "dob": "2000-07-04T21:00:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "google",
+      "experience": "2",
+      "package": "12",
+      "id": 4
+    },
+    {
+      "firstName": "tuna",
+      "lastName": "akhisar",
+      "email": "takhisar@gmail.com",
+      "dob": "2000-09-13T21:00:00.000Z",
+      "gender": "male",
+      "education": "Intermediate",
+      "company": "trendyol",
+      "experience": "1",
+      "package": "2",
+      "id": 5
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "dob": "",
+      "gender": "",
+      "education": "",
+      "company": "",
+      "experience": "",
+      "package": "",
+      "id": 6
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "dob": "",
+      "gender": "",
+      "education": "",
+      "company": "",
+      "experience": "",
+      "package": "",
+      "id": 7
+    }
+  ]
+}
